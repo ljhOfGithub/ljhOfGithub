@@ -4,10 +4,6 @@
 
 Undergradute from Beijing University of Posts and Telecommunications.
 
-Major in software engineering.
-
-Love open source and GNU/Linux(Gentoo Linux user).
-
 Always hungry for programming and new technology.
 
 ## More about my coding life
@@ -17,5 +13,3 @@ Always hungry for programming and new technology.
 -->
 
 ![ljhOfGithub's github stats](https://github-readme-stats.vercel.app/api?username=ljhOfGithub&count_private=true&show_icons=true&theme=nord)
-
-![snake gif](https://github.com/ljhOfGithub/ljhOfGithub/blob/output/github-contribution-grid-snake.gif)
