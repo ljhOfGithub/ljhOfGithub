@@ -1,5 +1,5 @@
 ### Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> ![](https://visitor-badge.glitch.me/badge?page_id=ljhOfGithub.ljhOfGithub)
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
