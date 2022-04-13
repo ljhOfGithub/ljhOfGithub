@@ -8,7 +8,7 @@ Always hungry for programming and new technology.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Undergradute from Beijing University of Posts and Telecommunications.
 - 🌱 &nbsp; Learning more about Software Security,Blockchain Security.
 <h3> 🛠 &nbsp;Tech Stack</h3>
