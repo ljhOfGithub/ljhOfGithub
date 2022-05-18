@@ -28,6 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljhOfGithub&layout=compact&hide=css,html)
 
 
-![ljhOfGithub's github stats]
+![ljhOfGithub's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
 <!-- (https://github-readme-stats.vercel.app/api?username=ljhOfGithub&count_private=true&show_icons=true&theme=nord) -->
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
+
