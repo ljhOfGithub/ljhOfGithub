@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljhOfGithub&layout=compact&hide=css,html&theme=radical)
 
 
-![ljhOfGithub's github stats](https://github-readme-stats.vercel.app/api?username=ljhOfGithub&show_icons=true&count_private=true&theme=radical)
+![ljhOfGithub's github stats](https://github-readme-stats.vercel.app/api?username=ljhOfGithub&count_private=true&show_icons=true&theme=radical)
 
 
 
